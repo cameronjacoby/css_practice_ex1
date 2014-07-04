@@ -12,6 +12,6 @@ Implement the mockup below in HTMl and CSS.  Feel free to replace any of the ima
 
 --------------------
 
-**Screenshot of completed project:**
+**Completed project:**
 
 ![ScreenShot](/ex1_screenshot.png)
