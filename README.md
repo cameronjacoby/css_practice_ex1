@@ -8,9 +8,9 @@ css_practice_ex1
 **Instructions:**
 Implement the mockup below in HTMl and CSS.  Feel free to replace any of the images with your own images.
 
-**Mockup:**
-
 ![ScreenShot](/ex1_mockup.png)
+
+--------------------
 
 **Screenshot of result:**
 
